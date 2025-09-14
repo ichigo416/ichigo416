@@ -16,7 +16,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ichigo416&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-![Profile view counter on GitHub]((https://github.com/ichigo416))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
