@@ -1,4 +1,4 @@
-##Hi there! 
+Hi there! 
 # 💫 About Me:
 🔭 I’m currently working on React<br>👯 I’m looking to collaborate on React<br>🤝 I’m looking for help with Typescript<br>🌱 I’m currently learning Typescript<br>⚡ Fun fact : Currently watching Bleach—learning from Ichigo how to fight bugs (in code) with style.
 
