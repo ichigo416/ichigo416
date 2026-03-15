@@ -1,7 +1,7 @@
 <h1 align="center">Pradyumna</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;DSA+Focused;AI+%7C+ML+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Cybersecurity+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -12,9 +12,8 @@
 
 # 🚀 About Me
 
-I'm a **Computer Science student preparing seriously for software engineering roles.**
+I'm a **Computer Science student preparing seriously for software developer roles.**
 
-* 🎯 Focused mindset
 * 🧠 Strong emphasis on **DSA and algorithms**
 * ⚙️ Build **end-to-end applications** (frontend → backend → database)
 * 🚀 Prefer **clean and scalable code**
