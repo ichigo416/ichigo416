@@ -116,6 +116,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 
 # 📬 Contact
 
-📧 Email:pradyu.dp@gmail.com
+📧 Email: pradyu.dp@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/pradyumna-d-p-29267b325
