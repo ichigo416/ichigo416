@@ -1,4 +1,4 @@
-<h1 align="center">Pradyumna</h1>
+<h1 align="center">Pradyumna D P</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;Cybersecurity+Enthusiast"/>
@@ -25,14 +25,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 <p>
 <a href="https://isocpp.org/">
 <img src="https://skillicons.dev/icons?i=cpp"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
