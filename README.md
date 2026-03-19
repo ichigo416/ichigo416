@@ -114,6 +114,13 @@ I'm a **Computer Science student preparing seriously for software developer role
 
 ---
 
+---
+
+# 📊 GitHub activity 
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ichigo416&theme=tokyonight&hide_border=true"/>
+</p> 
 # 📬 Contact
 
 📧 Email: pradyu.dp@gmail.com
