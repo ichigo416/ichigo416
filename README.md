@@ -40,7 +40,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 </a>
 </p>
 
----
 
 # 🎨 Frontend
 
@@ -66,8 +65,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 </a>
 </p>
 
----
-
 # ⚙️ Backend
 
 <p>
@@ -79,8 +76,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 <img src="https://skillicons.dev/icons?i=express"/>
 </a>
 </p>
-
----
 
 # 🗄 Databases
 
@@ -97,8 +92,6 @@ I'm a **Computer Science student preparing seriously for software developer role
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </a>
 </p>
-
----
 
 # 📱 Mobile & Cross Platform
 
@@ -119,6 +112,8 @@ I'm a **Computer Science student preparing seriously for software developer role
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ichigo416&theme=tokyonight&hide_border=true"/>
 </p> 
+
+---
 
 # 📬 Contact
 
