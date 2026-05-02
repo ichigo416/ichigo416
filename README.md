@@ -10,13 +10,12 @@
 
 
 
-# 🚀 About Me
+# About Me
 
 I'm a **Computer Science student preparing seriously for software developer roles.**
 
-* 🧠 Strong emphasis on **DSA and algorithms**
-* ⚙️ Build **end-to-end applications** (frontend → backend → database)
-* 🚀 Prefer **clean and scalable code**
+> Experience building end-to-end applications (frontend, backend, database)
+>  Emphasis on writing clean, scalable, and maintainable code  
 
 ---
 
